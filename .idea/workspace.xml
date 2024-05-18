@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e5ccfd-6422-4f08-a05d-bd74ec03ef18" name="Changes" comment="gh pages Added" />
+    <list default="true" id="d7e5ccfd-6422-4f08-a05d-bd74ec03ef18" name="Changes" comment="gh pages Added 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +104,7 @@
       <workItem from="1716051049334" duration="88000" />
       <workItem from="1716051144109" duration="1954000" />
       <workItem from="1716053171662" duration="695000" />
+      <workItem from="1716053953226" duration="329000" />
     </task>
     <task id="LOCAL-00001" summary="README.md Updated 3">
       <option name="closed" value="true" />
@@ -129,7 +130,23 @@
       <option name="project" value="LOCAL" />
       <updated>1716053497231</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="gh pages Removed">
+      <option name="closed" value="true" />
+      <created>1716054012575</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716054012575</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gh pages Added 2">
+      <option name="closed" value="true" />
+      <created>1716054277520</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716054277520</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +157,8 @@
     <MESSAGE value="README.md Updated 3" />
     <MESSAGE value="Tailwind CSS Added" />
     <MESSAGE value="gh pages Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="gh pages Added" />
+    <MESSAGE value="gh pages Removed" />
+    <MESSAGE value="gh pages Added 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="gh pages Added 2" />
   </component>
 </project>
