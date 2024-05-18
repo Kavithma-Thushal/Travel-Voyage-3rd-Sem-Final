@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e5ccfd-6422-4f08-a05d-bd74ec03ef18" name="Changes" comment="Tailwind CSS Added" />
+    <list default="true" id="d7e5ccfd-6422-4f08-a05d-bd74ec03ef18" name="Changes" comment="gh pages Added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,27 +33,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IJSE/Workspace/3rd Sem Repo/RAD/Course Work/Mobile-Hub-FrontEnd-React.js",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "npm.start.executor": "Run",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "ts.external.directory.path": "D:\\IJSE\\Workspace\\3rd Sem Repo\\RAD\\Course Work\\Mobile-Hub-FrontEnd-React.js\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IJSE/Workspace/3rd Sem Repo/RAD/Course Work/Mobile-Hub-FrontEnd-React.js&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\IJSE\\Workspace\\3rd Sem Repo\\RAD\\Course Work\\Mobile-Hub-FrontEnd-React.js\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="ReactDesignerToolWindowState">
     <option name="myId2Visible">
       <map>
@@ -103,6 +103,7 @@
       <updated>1716051048228</updated>
       <workItem from="1716051049334" duration="88000" />
       <workItem from="1716051144109" duration="1954000" />
+      <workItem from="1716053171662" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary="README.md Updated 3">
       <option name="closed" value="true" />
@@ -120,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716053137325</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="gh pages Added">
+      <option name="closed" value="true" />
+      <created>1716053497231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716053497231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +139,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="README.md Updated 3" />
     <MESSAGE value="Tailwind CSS Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tailwind CSS Added" />
+    <MESSAGE value="gh pages Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="gh pages Added" />
   </component>
 </project>

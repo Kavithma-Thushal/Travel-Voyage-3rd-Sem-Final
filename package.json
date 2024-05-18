@@ -3,7 +3,6 @@
   "author": "Kavithma Thushal",
   "license": "MIT",
   "version": "1.0.0",
-  "homepage": "https://Kavithma-Thushal.github.io/Mobile-Hub-FrontEnd-React.js",
   "description": "Discover the Mobile Shop (Pvt) LTD. FrontEnd Repository!",
   "main": "index.js",
   "private": true,
@@ -25,9 +24,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
