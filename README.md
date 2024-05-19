@@ -1,6 +1,6 @@
-# Mobile Hub (Pvt). Ltd 📳
+# Mobile Hub (PVT) LTD. 📳
 
-Discover the Mobile Shop Pvt Ltd FrontEnd repository, your gateway to our Mobile Shop Management System's user
+Discover the Mobile Hub (PVT) LTD. FrontEnd repository, your gateway to our Mobile Shop Management System's user
 interface! This repository contains the frontend application built using modern web technologies. Our frontend provides
 an engaging and intuitive interface for customers to explore our mobile catalog, place orders, and manage their
 accounts. It also includes administrative features for managing inventory, processing orders, and analyzing sales data.
