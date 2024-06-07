@@ -1,7 +1,15 @@
-export default function App() {
+import {Navbar} from "./components/Navbar/Navbar";
+import {Home} from "./components/Home/Home";
+import {Footer} from "./components/Footer/Footer";
+
+function App() {
     return (
         <div>
-            <h1 className={"text-5xl text-red-500"}>Mobile Hub (PVT) LTD.</h1>
+            <Navbar/>
+            <Home/>
+            <Footer/>
         </div>
     );
 }
+
+export default App;

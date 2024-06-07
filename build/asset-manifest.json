@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mobile-Hub-FrontEnd-React.js/static/css/main.de36f138.css",
+    "main.js": "/Mobile-Hub-FrontEnd-React.js/static/js/main.a7423e09.js",
+    "index.html": "/Mobile-Hub-FrontEnd-React.js/index.html",
+    "main.de36f138.css.map": "/Mobile-Hub-FrontEnd-React.js/static/css/main.de36f138.css.map",
+    "main.a7423e09.js.map": "/Mobile-Hub-FrontEnd-React.js/static/js/main.a7423e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de36f138.css",
+    "static/js/main.a7423e09.js"
+  ]
+}
