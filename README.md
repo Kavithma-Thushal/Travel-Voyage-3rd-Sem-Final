@@ -4,11 +4,11 @@ Discover the Mobile Hub (PVT) LTD. FrontEnd repository, your gateway to our Mobi
 interface! This repository contains the frontend application built using modern web technologies. Our frontend provides
 an engaging and intuitive interface for customers to explore our mobile catalog, place orders, and manage their
 accounts. It also includes administrative features for managing inventory, processing orders, and analyzing sales data.
-Pair this frontend with our backend APIs to experience a seamless and responsive mobile shopping experience
+Pair this frontend with our backend APIs to experience a seamless and responsive mobile shopping experience.
 
 ## Technologies Used
 
-✅React.js<br/>
+✅React JS<br/>
 ✅Tailwind CSS<br/>
 
 ## Key Features
