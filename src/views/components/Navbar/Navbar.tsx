@@ -8,7 +8,7 @@ export function Navbar() {
                 <a href="https://github.com/Kavithma-Thushal" target="_blank" rel="noopener noreferrer">
                     <div className="flex items-center">
                         <img src={logo} className="Nav-logo mr-2" alt="Nav-logo"/>
-                        <div className="text-lg font-bold">M O B I L E <span className="text-neonBlue">H U B</span>
+                        <div className="text-lg font-bold">MOBILE <span className="text-neonBlue">HUB</span>
                         </div>
                     </div>
                 </a>
