@@ -1,13 +1,16 @@
+import {BrowserRouter} from "react-router-dom";
 import {Navbar} from "./views/components/Navbar/Navbar";
-import {Customer} from "./views/pages/Customer/Customer";
+import {Content} from "./views/components/Content/Content";
 import {Footer} from "./views/components/Footer/Footer";
 
 function App() {
     return (
         <div>
-            <Navbar/>
-            <Customer/>
-            <Footer/>
+            <BrowserRouter>
+                <Navbar/>
+                <Content/>
+                <Footer/>
+            </BrowserRouter>
         </div>
     );
 }

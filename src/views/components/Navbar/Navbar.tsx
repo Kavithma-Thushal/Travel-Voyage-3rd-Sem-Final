@@ -13,10 +13,12 @@ export function Navbar() {
                     </div>
                 </a>
                 <div className="space-x-8 text-sm font-semibold">
-                    <a href="#customers" className="hover:text-neonBlue transition-colors duration-300">CUSTOMERS</a>
-                    <a href="#items" className="hover:text-neonBlue transition-colors duration-300">ITEMS</a>
-                    <a href="#orders" className="hover:text-neonBlue transition-colors duration-300">ORDERS</a>
-                    <a href="#orderDetails" className="hover:text-neonBlue transition-colors duration-300">ORDER DETAILS</a>
+                    <a href="dashboard" className="hover:text-neonBlue transition-colors duration-300">DASHBOARD</a>
+                    <a href="customer" className="hover:text-neonBlue transition-colors duration-300">CUSTOMER</a>
+                    <a href="item" className="hover:text-neonBlue transition-colors duration-300">INVENTORY</a>
+                    <a href="orders" className="hover:text-neonBlue transition-colors duration-300">ORDERS</a>
+                    <a href="orderDetails" className="hover:text-neonBlue transition-colors duration-300">ORDER
+                        DETAILS</a>
                 </div>
             </div>
         </nav>
