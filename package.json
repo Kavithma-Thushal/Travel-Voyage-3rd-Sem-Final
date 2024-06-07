@@ -1,8 +1,9 @@
 {
   "name": "mobile-hub-frontend-react",
+  "version": "1.0.0",
   "author": "Kavithma Thushal",
   "license": "MIT",
-  "version": "1.0.0",
+  "private": true,
   "description": "Discover the Mobile Shop (Pvt) LTD. FrontEnd Repository!",
   "homepage": "https://Kavithma-Thushal.github.io/Mobile-Hub-FrontEnd-React.js",
   "dependencies": {
