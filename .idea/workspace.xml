@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e5ccfd-6422-4f08-a05d-bd74ec03ef18" name="Changes" comment="BrowserRouting Added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d7e5ccfd-6422-4f08-a05d-bd74ec03ef18" name="Changes" comment="gh-pages Updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +78,7 @@
       <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-FrontEnd-React.js\src\view" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.start">
+  <component name="RunManager" selected="npm.deploy">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -113,9 +111,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.build" />
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.start" />
         <item itemvalue="npm.deploy" />
       </list>
@@ -154,6 +152,7 @@
       <workItem from="1717749345248" duration="788000" />
       <workItem from="1717757001345" duration="2134000" />
       <workItem from="1717759279388" duration="434000" />
+      <workItem from="1717759743823" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="README.md Updated 3">
       <option name="closed" value="true" />
@@ -307,7 +306,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717759153166</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="gh-pages Updated">
+      <option name="closed" value="true" />
+      <created>1717760040192</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1717760040192</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,6 +337,7 @@
     <MESSAGE value="Navbar.tsx Refactored" />
     <MESSAGE value="react-router-dom Added" />
     <MESSAGE value="BrowserRouting Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="BrowserRouting Added" />
+    <MESSAGE value="gh-pages Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="gh-pages Updated" />
   </component>
 </project>

@@ -2,6 +2,11 @@ import logo from "../../../assets/images/logo.png";
 import "./Navbar.css";
 
 export function Navbar() {
+
+    function login() {
+        alert("Login Successfully...!")
+    }
+
     return (
         <nav className="bg-darkBlue text-white p-2 pr-7">
             <div className="container mx-auto flex justify-between items-center">
@@ -19,6 +24,10 @@ export function Navbar() {
                     <a href="orders" className="hover:text-neonBlue transition-colors duration-300">ORDERS</a>
                     <a href="orderDetails" className="hover:text-neonBlue transition-colors duration-300">ORDER
                         DETAILS</a>
+                    <button
+                        className="ml-4 px-4 py-2 bg-neonBlue text-white font-semibold rounded hover:text-darkBlue transition-colors duration-300"
+                        onClick={login}>LOGIN
+                    </button>
                 </div>
             </div>
         </nav>
