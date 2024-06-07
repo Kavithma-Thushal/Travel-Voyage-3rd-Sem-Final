@@ -1,12 +1,12 @@
-import {Navbar} from "./components/Navbar/Navbar";
-import {Home} from "./components/Home/Home";
-import {Footer} from "./components/Footer/Footer";
+import {Navbar} from "./views/components/Navbar/Navbar";
+import {Customer} from "./views/pages/Customer/Customer";
+import {Footer} from "./views/components/Footer/Footer";
 
 function App() {
     return (
         <div>
             <Navbar/>
-            <Home/>
+            <Customer/>
             <Footer/>
         </div>
     );
