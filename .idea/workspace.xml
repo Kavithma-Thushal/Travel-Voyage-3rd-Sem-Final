@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e5ccfd-6422-4f08-a05d-bd74ec03ef18" name="Changes" comment="react-router-dom Added" />
+    <list default="true" id="d7e5ccfd-6422-4f08-a05d-bd74ec03ef18" name="Changes" comment="BrowserRouting Added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +41,7 @@
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IJSE/Workspace/3rd Sem Repo/RAD/Course Work/Mobile-Hub-FrontEnd-React.js&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IJSE/Workspace/3rd Sem Repo/RAD/Course Work/Mobile-Hub-FrontEnd-React.js/src/views/components&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -67,6 +69,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-FrontEnd-React.js\src\views\components" />
+      <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-FrontEnd-React.js\src\views\pages" />
       <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-FrontEnd-React.js" />
       <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-FrontEnd-React.js\src" />
     </key>
@@ -109,9 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.deploy" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +152,8 @@
       <workItem from="1717739783765" duration="748000" />
       <workItem from="1717747100431" duration="1179000" />
       <workItem from="1717749345248" duration="788000" />
+      <workItem from="1717757001345" duration="2134000" />
+      <workItem from="1717759279388" duration="434000" />
     </task>
     <task id="LOCAL-00001" summary="README.md Updated 3">
       <option name="closed" value="true" />
@@ -291,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717750578393</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="BrowserRouting Added">
+      <option name="closed" value="true" />
+      <created>1717759153166</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1717759153166</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,6 +329,7 @@
     <MESSAGE value="package.json Refactored" />
     <MESSAGE value="Navbar.tsx Refactored" />
     <MESSAGE value="react-router-dom Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="react-router-dom Added" />
+    <MESSAGE value="BrowserRouting Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="BrowserRouting Added" />
   </component>
 </project>
