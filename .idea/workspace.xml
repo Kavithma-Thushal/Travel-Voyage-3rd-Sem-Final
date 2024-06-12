@@ -1,4 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d657e2b-464c-425b-94be-8750955a3bbf" name="Changes" comment="Whole Project Refactored">
+      <change afterPath="$PROJECT_DIR$/public/product-data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/products/beans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/products/spinach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/products/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/CartItem.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/ProductModel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/components/AddToCart/AddToCart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/components/DefaultLayout/DefaultLayout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/components/Navbar/NavBar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/components/Product/Product.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/About/About.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/Cart/Cart.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/Contact/Contact.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/Home/Home.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pages/Login/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Content/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/components/Content/Content.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/components/Footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/Navbar/Navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Customer/Customer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Dashboard/Dashboard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Item/Item.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/OrderDetails/OrderDetails.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/Orders/Orders.tsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hmVOb1zUpzEvZfY9en3qxuFXMV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IJSE/Workspace/3rd Sem Repo/RAD/Course Work/Mobile-Hub-MERN/src/assets/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.start.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\IJSE\\Workspace\\3rd Sem Repo\\RAD\\Course Work\\Mobile-Hub-MERN\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN\src\assets\images" />
+      <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN" />
+      <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d657e2b-464c-425b-94be-8750955a3bbf" name="Changes" comment="" />
+      <created>1718199209387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718199209387</updated>
+      <workItem from="1718199210697" duration="1925000" />
+      <workItem from="1718203362502" duration="697000" />
+    </task>
+    <task id="LOCAL-00001" summary="Whole Project Refactored">
+      <option name="closed" value="true" />
+      <created>1718201143439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718201143439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Whole Project Refactored" />
+    <option name="LAST_COMMIT_MESSAGE" value="Whole Project Refactored" />
+  </component>
 </project>

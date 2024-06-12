@@ -1,18 +1,16 @@
-import {BrowserRouter} from "react-router-dom";
-import {Navbar} from "./views/components/Navbar/Navbar";
-import {Content} from "./views/components/Content/Content";
-import {Footer} from "./views/components/Footer/Footer";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
+import {DefaultLayout} from "./views/components/DefaultLayout/DefaultLayout";
+import {Login} from "./views/pages/Login/Login";
 
-function App() {
+export function App() {
     return (
         <div>
             <BrowserRouter>
-                <Navbar/>
-                <Content/>
-                <Footer/>
+                <Routes>
+                    <Route path="/*" Component={DefaultLayout}></Route>
+                    <Route path="/login" Component={Login}></Route>
+                </Routes>
             </BrowserRouter>
         </div>
     );
 }
-
-export default App;

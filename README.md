@@ -1,10 +1,13 @@
-# Mobile Hub (PVT) LTD.
+# Mobile Shop 📱
 
-Discover the Mobile Hub (PVT) LTD. FrontEnd repository, your gateway to our Mobile Shop Management System's user
-interface! This repository contains the frontend application built using modern web technologies. Our frontend provides
-an engaging and intuitive interface for customers to explore our mobile catalog, place orders, and manage their
-accounts. It also includes administrative features for managing inventory, processing orders, and analyzing sales data.
-Pair this frontend with our backend APIs to experience a seamless and responsive mobile shopping experience.
+Welcome to the Mobile Shop repository, your gateway to our comprehensive Mobile Shop Management System. This repository
+contains both the frontend and backend applications, built using the MERN stack (MongoDB, Express.js, React.js,
+Node.js). Our system provides an engaging and intuitive interface for customers to explore our mobile product catalog,
+place orders, and manage their accounts, as well as administrative features for managing inventory, processing orders,
+and analyzing sales data. Pairing the frontend with our backend APIs ensures a seamless and responsive mobile shopping
+experience.
+
+## Technologies Used
 
 ### Frontend
 
@@ -37,22 +40,22 @@ Pair this frontend with our backend APIs to experience a seamless and responsive
 
 ## Usage
 
-1. Clone the repository git clone `https://github.com/Kavithma-Thushal/Mobile-Hub-MERN.git`
-2. Install the dependencies `npm install`
-3. Start the development server `npm start`
+1. Clone the repository: git clone `https://github.com/Kavithma-Thushal/Mobile-Shop-MERN.git`
+2. Install the dependencies: `npm install`
+3. Start the development server: `npm start`
 4. Open your preferred web browser and navigate to `http://localhost:3000`
 
 ## Version
 
 2.0.0
 
-⭐️If you hava any bugs or issues ,If you want to explain code please contact me on :<br/>
-[kavithmathushal9007@gmail.com](https://www.kavithmathushal9007@gmail.com)<br/><br/>
+⭐️If you have any bugs or issues, or if you want to explain the code, please contact me at:<br/>
+[kavithmathushal9007@gmail.com](mailto:kavithmathushal9007@gmail.com)<br/><br/>
 
 <div align="center">
 
 #### This project is licensed under the [MIT License](LICENSE)
 
-#### © 2024 All Right Reserved, Designed By [Kavithma Thushal](https://github.com/Kavithma-Thushal)
+#### © 2024 All Rights Reserved, Designed By [Kavithma Thushal](https://github.com/Kavithma-Thushal)
 
 </div>

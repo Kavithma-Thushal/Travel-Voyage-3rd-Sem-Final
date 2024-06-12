@@ -1,20 +1,22 @@
-import {Route, Routes} from "react-router-dom";
-import {Dashboard} from "../../pages/Dashboard/Dashboard";
-import {Customer} from "../../pages/Customer/Customer";
-import {Item} from "../../pages/Item/Item";
-import {Orders} from "../../pages/Orders/Orders";
-import {OrderDetails} from "../../pages/OrderDetails/OrderDetails";
+import {Component} from "react";
+import {Routes, Route} from "react-router-dom";
+import {Home} from "../../pages/Home/Home";
+import {About} from "../../pages/About/About";
+import {Contact} from "../../pages/Contact/Contact";
+import {Cart} from "../../pages/Cart/Cart";
+import {AddToCart} from "../AddToCart/AddToCart";
 
-export function Content() {
-    return (
-        <div>
-            <Routes>
-                <Route path={"/"} element={<Dashboard/>}></Route>
-                <Route path={"/customer"} element={<Customer/>}></Route>
-                <Route path={"/item"} element={<Item/>}></Route>
-                <Route path={"/orders"} element={<Orders/>}></Route>
-                <Route path={"/orderDetails"} element={<OrderDetails/>}></Route>
-            </Routes>
-        </div>
-    );
+export class Content extends Component {
+    render() {
+        return (
+            <div>
+                <Routes>
+                    <Route path="/" Component={Home}></Route>
+                    <Route path="/about" Component={About}></Route>
+                    <Route path="/contact" Component={Contact}></Route>
+                    <Route path="/cart" element={<Cart itemsList={AddToCart.itemsList}/>}></Route>
+                </Routes>
+            </div>
+        );
+    }
 }
