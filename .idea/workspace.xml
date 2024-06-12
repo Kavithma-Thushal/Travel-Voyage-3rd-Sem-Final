@@ -4,34 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d657e2b-464c-425b-94be-8750955a3bbf" name="Changes" comment="Whole Project Refactored">
-      <change afterPath="$PROJECT_DIR$/public/product-data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/products/beans.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/products/spinach.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/products/tomato.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/CartItem.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ProductModel.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/components/AddToCart/AddToCart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/components/DefaultLayout/DefaultLayout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/components/Navbar/NavBar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/components/Product/Product.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/pages/About/About.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/pages/Cart/Cart.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/pages/Contact/Contact.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/pages/Home/Home.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/pages/Login/Login.tsx" afterDir="false" />
+    <list default="true" id="0d657e2b-464c-425b-94be-8750955a3bbf" name="Changes" comment="Theme changed to blue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/react-app-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/components/Content/Content.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/components/Content/Content.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/components/Footer/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/components/Navbar/Navbar.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/pages/Customer/Customer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/pages/Dashboard/Dashboard.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/pages/Item/Item.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/pages/OrderDetails/OrderDetails.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/pages/Orders/Orders.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/product-data.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/product-data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +31,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IJSE/Workspace/3rd Sem Repo/RAD/Course Work/Mobile-Hub-MERN/src/assets/images&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IJSE/Workspace/3rd Sem Repo/RAD/Course Work/Mobile-Hub-MERN/src/assets/images/products&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -78,9 +53,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN\src\assets\images\products" />
       <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN\src\assets\images" />
+      <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN\src\assets" />
       <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN" />
       <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IJSE\Workspace\3rd Sem Repo\RAD\Course Work\Mobile-Hub-MERN\src\assets\images" />
     </key>
   </component>
   <component name="RunManager">
@@ -118,6 +98,9 @@
       <updated>1718199209387</updated>
       <workItem from="1718199210697" duration="1925000" />
       <workItem from="1718203362502" duration="697000" />
+      <workItem from="1718204070662" duration="4521000" />
+      <workItem from="1718208742610" duration="495000" />
+      <workItem from="1718209339762" duration="1524000" />
     </task>
     <task id="LOCAL-00001" summary="Whole Project Refactored">
       <option name="closed" value="true" />
@@ -127,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718201143439</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Theme changed to blue">
+      <option name="closed" value="true" />
+      <created>1718208524698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718208524698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +126,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Whole Project Refactored" />
-    <option name="LAST_COMMIT_MESSAGE" value="Whole Project Refactored" />
+    <MESSAGE value="Theme changed to blue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Theme changed to blue" />
   </component>
 </project>

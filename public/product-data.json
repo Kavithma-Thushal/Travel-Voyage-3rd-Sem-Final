@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "Iphone 15",
-    "price": "500 000",
+    "price": "500000",
     "currency": "LKR",
     "image": "iphone15.png"
   },
   {
     "id": 2,
     "name": "Iphone 13",
-    "price": "300 000",
+    "price": "300000",
     "currency": "LKR",
     "image": "iphone13.png"
   },
   {
     "id": 3,
     "name": "Iphone 11",
-    "price": "100 000",
+    "price": "100000",
     "currency": "LKR",
     "image": "iphone11.png"
   }
