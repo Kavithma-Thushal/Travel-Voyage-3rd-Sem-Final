@@ -9,8 +9,7 @@ export function Content() {
     return (
         <div>
             <Routes>
-                <Route path={"/Mobile-Hub-FrontEnd-React.js"} element={<Dashboard/>}></Route>
-                <Route path={"/dashboard"} element={<Dashboard/>}></Route>
+                <Route path={"/"} element={<Dashboard/>}></Route>
                 <Route path={"/customer"} element={<Customer/>}></Route>
                 <Route path={"/item"} element={<Item/>}></Route>
                 <Route path={"/orders"} element={<Orders/>}></Route>
